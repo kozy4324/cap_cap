@@ -27,7 +27,7 @@ Usage: capcap [options] <url> [<url>...]
 ## Dependency gems
 
 - [Capybara](https://github.com/jnicklas/capybara)
-- [Poltergeist](https://github.com/teampoltergeist/poltergeistJ)
+- [Poltergeist](https://github.com/teampoltergeist/poltergeist)
 
 ## Contributing
 
