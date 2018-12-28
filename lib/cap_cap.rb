@@ -2,6 +2,7 @@ require "tempfile"
 require "optparse"
 
 require "capybara"
+require "capybara/dsl"
 require "capybara/poltergeist"
 
 require "cap_cap/version"
